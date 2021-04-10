@@ -1,16 +1,3 @@
 {
-  "tasks": [
-    {
-      "text": "ll",
-      "date": "oo",
-      "complete": false,
-      "id": 7
-    },
-    {
-      "text": "ibtisam",
-      "date": "22",
-      "complete": true,
-      "id": 10
-    }
-  ]
+  "tasks": []
 }
